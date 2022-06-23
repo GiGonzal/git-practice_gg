@@ -6,5 +6,5 @@ adding a line in master
 adding a line in branch
 a third line
 =======
-Hello everyone, this is one line of writing! - GG
+Hello everyone, this is one line of writing! - GinezGonzalez
 
